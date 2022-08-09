@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LM2/PhoE6gUXHAbz5CZ+7hNWVvCFCCj4PkR2SvXKX5coGiPtYfb5alm30SJJanzCrwUVgdsh2ZcTR2ayl/s5+g==",
+  "dgSpecHash": "ac3770fMM1b5coRygfNdJ9HKSfpQPL1MS4DAqV3j76hdloB2+WBwwHPUPa7nEl9Dmz28fDvTTEVotyNdYe2wEw==",
   "success": true,
-  "projectFilePath": "/home/pierre/workspace/SpringProject/houlala_smart_project/notification-service/notification-service.csproj",
+  "projectFilePath": "/home/pierre/workspace/houlala_workspace/houlala_notification/notification-service.csproj",
   "expectedPackageFiles": [
     "/home/pierre/.nuget/packages/mailkit/3.3.0/mailkit.3.3.0.nupkg.sha512",
     "/home/pierre/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

@@ -422,11 +422,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/pierre/workspace/SpringProject/houlala_smart_project/notification-service/notification-service.csproj",
+      "projectUniqueName": "/home/pierre/workspace/houlala_workspace/houlala_notification/notification-service.csproj",
       "projectName": "notification-service",
-      "projectPath": "/home/pierre/workspace/SpringProject/houlala_smart_project/notification-service/notification-service.csproj",
+      "projectPath": "/home/pierre/workspace/houlala_workspace/houlala_notification/notification-service.csproj",
       "packagesPath": "/home/pierre/.nuget/packages/",
-      "outputPath": "/home/pierre/workspace/SpringProject/houlala_smart_project/notification-service/obj/",
+      "outputPath": "/home/pierre/workspace/houlala_workspace/houlala_notification/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/pierre/.nuget/NuGet/NuGet.Config"
