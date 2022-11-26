@@ -1,7 +1,4 @@
 using Microsoft.AspNetCore.Mvc;
-using MimeKit;
-using MailKit.Net.Smtp;
-using MailKit.Security;
 
 
 namespace notification_service.Controllers;

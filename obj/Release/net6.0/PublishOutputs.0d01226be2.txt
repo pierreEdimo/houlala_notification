@@ -1,0 +1,14 @@
+/home/pierre/workspace/houlala_workspace/houlala_notification/bin/Release/net6.0/publish/notification-service
+/home/pierre/workspace/houlala_workspace/houlala_notification/bin/Release/net6.0/publish/appsettings.Development.json
+/home/pierre/workspace/houlala_workspace/houlala_notification/bin/Release/net6.0/publish/appsettings.json
+/home/pierre/workspace/houlala_workspace/houlala_notification/bin/Release/net6.0/publish/notification-service.dll
+/home/pierre/workspace/houlala_workspace/houlala_notification/bin/Release/net6.0/publish/notification-service.deps.json
+/home/pierre/workspace/houlala_workspace/houlala_notification/bin/Release/net6.0/publish/notification-service.runtimeconfig.json
+/home/pierre/workspace/houlala_workspace/houlala_notification/bin/Release/net6.0/publish/notification-service.pdb
+/home/pierre/workspace/houlala_workspace/houlala_notification/bin/Release/net6.0/publish/MailKit.dll
+/home/pierre/workspace/houlala_workspace/houlala_notification/bin/Release/net6.0/publish/Microsoft.OpenApi.dll
+/home/pierre/workspace/houlala_workspace/houlala_notification/bin/Release/net6.0/publish/MimeKit.dll
+/home/pierre/workspace/houlala_workspace/houlala_notification/bin/Release/net6.0/publish/BouncyCastle.Crypto.dll
+/home/pierre/workspace/houlala_workspace/houlala_notification/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/pierre/workspace/houlala_workspace/houlala_notification/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/pierre/workspace/houlala_workspace/houlala_notification/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll

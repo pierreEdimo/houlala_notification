@@ -58,3 +58,8 @@
 /home/pierre/workspace/houlala_workspace/houlala_notification/obj/Debug/net6.0/notification-service.pdb
 /home/pierre/workspace/houlala_workspace/houlala_notification/obj/Debug/net6.0/notification-service.genruntimeconfig.cache
 /home/pierre/workspace/houlala_workspace/houlala_notification/obj/Debug/net6.0/ref/notification-service.dll
+/home/pierre/workspace/houlala_workspace/houlala_notification/obj/Debug/net6.0/staticwebassets/msbuild.notification-service.Microsoft.AspNetCore.StaticWebAssets.props
+/home/pierre/workspace/houlala_workspace/houlala_notification/obj/Debug/net6.0/staticwebassets/msbuild.build.notification-service.props
+/home/pierre/workspace/houlala_workspace/houlala_notification/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.notification-service.props
+/home/pierre/workspace/houlala_workspace/houlala_notification/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.notification-service.props
+/home/pierre/workspace/houlala_workspace/houlala_notification/obj/Debug/net6.0/staticwebassets.pack.json
