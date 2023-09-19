@@ -1,31 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/home/pierre/workspace/houlala_notification/notification-service.csproj": {}
+    "/home/pierre/workspace/houlala-projects/houlala_notification/notification-service.csproj": {}
   },
   "projects": {
-    "/home/pierre/workspace/houlala_notification/notification-service.csproj": {
+    "/home/pierre/workspace/houlala-projects/houlala_notification/notification-service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/pierre/workspace/houlala_notification/notification-service.csproj",
+        "projectUniqueName": "/home/pierre/workspace/houlala-projects/houlala_notification/notification-service.csproj",
         "projectName": "notification-service",
-        "projectPath": "/home/pierre/workspace/houlala_notification/notification-service.csproj",
+        "projectPath": "/home/pierre/workspace/houlala-projects/houlala_notification/notification-service.csproj",
         "packagesPath": "/home/pierre/.nuget/packages/",
-        "outputPath": "/home/pierre/workspace/houlala_notification/obj/",
+        "outputPath": "/home/pierre/workspace/houlala-projects/houlala_notification/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/pierre/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net7.0"
         ],
         "sources": {
           "/usr/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -36,8 +36,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
             "MailKit": {
               "target": "Package",
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }
