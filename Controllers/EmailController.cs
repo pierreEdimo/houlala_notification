@@ -5,22 +5,12 @@ namespace notification_service.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
-public class EmailController : ControllerBase
+public class EmailController(IEmailService service) : ControllerBase
 {
-
-    private readonly IEmailService _service;
-
-    public EmailController(
-        IEmailService service
-    )
-    {
-        _service = service;
-    }
-
     [HttpPost]
-    public IActionResult sendEmail([FromBody] EmailDto newEmail)
+    public IActionResult SendEmail([FromBody] EmailDto newEmail)
     {
-        _service.sendStandardEmail(newEmail); 
+        service.SendStandardEmail(newEmail); 
         return Ok("Email Successful sent");
     }
 }

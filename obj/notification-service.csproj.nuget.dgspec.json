@@ -1,31 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/home/benutzer/workspace/houlala-projects/houlala_notification/notification-service.csproj": {}
+    "/home/pnk/workspace/houlala_v2/houlala_notification/notification-service.csproj": {}
   },
   "projects": {
-    "/home/benutzer/workspace/houlala-projects/houlala_notification/notification-service.csproj": {
+    "/home/pnk/workspace/houlala_v2/houlala_notification/notification-service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/benutzer/workspace/houlala-projects/houlala_notification/notification-service.csproj",
+        "projectUniqueName": "/home/pnk/workspace/houlala_v2/houlala_notification/notification-service.csproj",
         "projectName": "notification-service",
-        "projectPath": "/home/benutzer/workspace/houlala-projects/houlala_notification/notification-service.csproj",
-        "packagesPath": "/home/benutzer/.nuget/packages/",
-        "outputPath": "/home/benutzer/workspace/houlala-projects/houlala_notification/obj/",
+        "projectPath": "/home/pnk/workspace/houlala_v2/houlala_notification/notification-service.csproj",
+        "packagesPath": "/home/pnk/.nuget/packages/",
+        "outputPath": "/home/pnk/workspace/houlala_v2/houlala_notification/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/benutzer/.nuget/NuGet/NuGet.Config"
+          "/home/pnk/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
-          "/home/benutzer/Downloads/dotnet-7/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -36,16 +35,16 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "MailKit": {
               "target": "Package",
-              "version": "[3.3.0, )"
+              "version": "[4.8.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.2.3, )"
+              "version": "[6.9.0, )"
             }
           },
           "imports": [
@@ -67,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/benutzer/Downloads/dotnet-7/sdk/7.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
